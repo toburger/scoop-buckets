@@ -3,7 +3,8 @@
     "license":  "MIT",
     "architecture": {
         "64bit": {
-            "url":  "https://go.microsoft.com/fwlink/?LinkID=809126#/dl.zip"
+            "url":  "https://go.microsoft.com/fwlink/?LinkID=809126#/dl.zip",
+            "hash": "a7ab3ad9c28c9952a9f6e1fee158c337b82aac3ba502e742a92d23bab258e621"
         },
         "32bit": {
             "url": "https://go.microsoft.com/fwlink/?LinkID=809127#/dl.zip"
