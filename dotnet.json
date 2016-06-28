@@ -8,7 +8,7 @@
         "32bit": {
             "url": "https://go.microsoft.com/fwlink/?LinkID=809127#/dl.zip"
         }
-    }
+    },
     "homepage":  "http://dotnet.github.io/",
     "bin":  [
         "bin\\dotnet.exe"
