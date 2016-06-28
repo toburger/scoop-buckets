@@ -1,7 +1,7 @@
 {
     "version":  "1.0.1",
     "license":  "MIT",
-    "url":  "https://go.microsoft.com/fwlink/?LinkID=809126#/dl.zip"
+    "url":  "https://go.microsoft.com/fwlink/?LinkID=809126#/dl.zip",
     "homepage":  "http://dotnet.github.io/",
     "extract_dir":  "dotnet",
     "bin":  [
