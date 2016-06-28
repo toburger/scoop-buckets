@@ -1,9 +1,15 @@
 {
     "version":  "1.0.1",
     "license":  "MIT",
-    "url":  "https://go.microsoft.com/fwlink/?LinkID=809126#/dl.zip",
+    "architecture": {
+        "64bit": {
+            "url":  "https://go.microsoft.com/fwlink/?LinkID=809126#/dl.zip"
+        },
+        "32bit": {
+            "url": "https://go.microsoft.com/fwlink/?LinkID=809127#/dl.zip"
+        }
+    }
     "homepage":  "http://dotnet.github.io/",
-    "extract_dir":  "dotnet",
     "bin":  [
         "bin\\dotnet.exe"
     ],
