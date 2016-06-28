@@ -11,7 +11,7 @@
     },
     "homepage":  "http://dotnet.github.io/",
     "bin":  [
-        "bin\\dotnet.exe"
+        "dotnet.exe"
     ],
     "env_set": {
         "DOTNET_HOME":  "$dir"
